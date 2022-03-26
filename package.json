@@ -1,0 +1,26 @@
+{
+  "name": "bamboofinance",
+  "author": "Andre Silva",
+  "license": "Unlicense",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A smart contract for crowd investment in ecologically responsible bamboo production",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test",
+    "dev": "lite-server"
+  },
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "openzeppelin-solidity": "1.12.0",
+    "truffle-contract": "^3.0.6",
+    "truffle-hdwallet-provider": "0.0.6",
+    "web3": "^1.0.0-beta.35"
+  },
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}

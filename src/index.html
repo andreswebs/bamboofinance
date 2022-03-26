@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bamboo Finance ICO Sale</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <link rel="stylesheet" type="text/css" media="screen" href="css/style.css">
+  </head>
+
+  <body>
+    <main>
+      <header>
+        <h1 class="text-center">Bamboo Finance ICO Sale</h1>
+        <hr/>
+      </header>
+      <br/>
+      <div id="loader">
+        <p class="text-center">Loading&hellip;</p>
+      </div>
+      <div id="content"><!-- Start of #content -->
+        <p>Introducing "Bamboo Finance Token" (BAMBOO)!</p>
+        <p>Token price is <span id="token-price"></span>&nbsp;Ether. You currently have <span id="account-balance"></span>&nbsp;BAMBOO.</p>
+        <form role="form" onSubmit="App.buyTokens(); return false;">
+          <input type="text" name="number" value="1" min="1" pattern="[0-9]+" id="number-of-tokens"></input>
+          <button type="submit">Buy Tokens</button>
+        </form>
+        <br/>
+        <div id="progress" aria-valuemin="0" aria-valuemax=""></div>
+        <p><span id="tokens-sold"></span>&nbsp;BAMBOO tokens sold</p>
+        <hr/>
+        <p id="account-address"></p>
+      </div><!-- End of #content -->
+    </main>
+
+    <script type="text/javascript" src="js/web3.min.js"></script>
+    <script type="text/javascript" src="js/truffle-contract.min.js"></script>
+    <script type="text/javascript" src="js/app.js"></script>
+  </body>
+
+  </html>
