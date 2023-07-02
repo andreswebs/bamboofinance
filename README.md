@@ -12,7 +12,7 @@ A smart contract for crowd investment in ecologically responsible bamboo product
 
 ## License
 
-This project is licensed under the [Unlicense](UNLICENSE.md).
+This project is licensed under the [GNU GPLv3](LICENSE.md).
 
 
 ## References
