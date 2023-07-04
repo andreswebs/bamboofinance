@@ -45,7 +45,7 @@ Bamboo is an extremely versatile plant, possessing various properties that make 
 
 Given its properties, bamboo finds numerous applications in industry. In the construction industry, bamboo serves as a sustainable alternative to traditional materials. It can be used for structural elements such as beams, columns, and flooring, providing strength and durability to buildings. Bamboo's renewable energy potential is harnessed through the production of biofuels and biomass-based electricity generation, reducing dependence on fossil fuels and contributing to a greener energy mix. Additionally, bamboo-based products, such as furniture, textiles, and paper, have gained popularity due to their aesthetic appeal, durability, and eco-friendly nature. Bamboo's versatility also extends to erosion control, water purification, and landscaping applications, making it an essential resource for environmental conservation efforts. The adoption of bamboo as a commodity not only promotes sustainable practices but also fosters economic growth and innovation in various sectors.
 
-Based on bamboo's properties and uses in industry, policies to facilitate or subsidize bamboo adoption serve to directly address the following Sustainable Development Goals (SDGs):
+Based on bamboo's properties and uses in industry, policies to facilitate or subsidize bamboo adoption serve to directly address the following UN Sustainable Development Goals ([SDGs](https://sdgs.un.org/goals)):
 
     SDG 1:
     End poverty in all its forms
