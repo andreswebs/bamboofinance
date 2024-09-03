@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: bamboofinance
+message: Cite using the metadata from this file.
+type: software
+authors:
+  - given-names: Andre
+    family-names: Silva
+    email: andreswebs@pm.me
+    orcid: 'https://orcid.org/0009-0003-0298-7451'
+repository-code: 'https://github.com/andreswebs/bamboofinance'
+abstract: >-
+  A smart contract for crowd investment in ecologically
+  responsible bamboo production.
+keywords:
+  - Ethereum
+  - Smart Contract
+  - Bamboo
+  - SDOs
+license: GPL-3.0+
